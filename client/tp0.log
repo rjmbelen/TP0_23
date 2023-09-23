@@ -1,0 +1,194 @@
+[INFO] 23:40:49:295 LOGGER_TPO/(3153:3153): Bienvenidos al archivo Logger del TPO
+
+[INFO] 23:40:49:295 LOGGER_TPO/(3153:3153): Hola! Soy un logger!
+[INFO] 23:40:49:295 LOGGER_TPO/(3153:3153): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 23:40:49:296 LOGGER_TPO/(3153:3153): El valor es: valor
+[INFO] 23:40:49:297 LOGGER_TPO/(3153:3153): El puerto es: 4444 
+[INFO] 23:40:49:297 LOGGER_TPO/(3153:3153): La IP es: 127.0.0.1
+[INFO] 23:41:09:324 LOGGER_TPO/(3153:3153): PRUEBA ENVIO HANDSHAKE
+[INFO] 23:41:12:350 LOGGER_TPO/(3153:3153): FIN
+[ERROR] 23:41:13:345 LOGGER_TPO/(3153:3153): El servidor NO entiendo el HANDSHAKE enviado
+[INFO] 03:30:04:712 LOGGER_TPO/(4511:4511): Bienvenidos al archivo Logger del TPO
+
+[INFO] 03:30:04:715 LOGGER_TPO/(4511:4511): Hola! Soy un logger!
+[INFO] 03:30:04:766 LOGGER_TPO/(4511:4511): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 03:30:04:769 LOGGER_TPO/(4511:4511): El valor es: valor
+[INFO] 03:30:04:769 LOGGER_TPO/(4511:4511): El puerto es: 4444 
+[INFO] 03:30:04:769 LOGGER_TPO/(4511:4511): La IP es: 127.0.0.1
+[INFO] 03:30:06:522 LOGGER_TPO/(4512:4512): Bienvenidos al archivo Logger del TPO
+
+[INFO] 03:30:06:525 LOGGER_TPO/(4512:4512): Hola! Soy un logger!
+[INFO] 03:30:06:570 LOGGER_TPO/(4512:4512): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 03:30:06:570 LOGGER_TPO/(4512:4512): El valor es: valor
+[INFO] 03:30:06:570 LOGGER_TPO/(4512:4512): El puerto es: 4444 
+[INFO] 03:30:06:570 LOGGER_TPO/(4512:4512): La IP es: 127.0.0.1
+[INFO] 03:30:22:822 LOGGER_TPO/(4512:4512): prueba envio de mensaje: valor
+[ERROR] 03:30:24:256 LOGGER_TPO/(4512:4512): El servidor NO entiendo el HANDSHAKE enviado
+[INFO] 03:46:43:134 LOGGER_TPO/(2144:2144): Bienvenidos al archivo Logger del TPO
+
+[INFO] 03:46:43:137 LOGGER_TPO/(2144:2144): Hola! Soy un logger!
+[INFO] 03:46:43:137 LOGGER_TPO/(2144:2144): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 03:46:43:137 LOGGER_TPO/(2144:2144): El valor es: valor
+[INFO] 03:46:43:137 LOGGER_TPO/(2144:2144): El puerto es: 4444 
+[INFO] 03:46:43:137 LOGGER_TPO/(2144:2144): La IP es: 127.0.0.1
+[INFO] 03:47:06:249 LOGGER_TPO/(2144:2144): prueba envio de mensaje 2
+[INFO] 03:48:25:866 LOGGER_TPO/(2208:2208): Bienvenidos al archivo Logger del TPO
+
+[INFO] 03:48:25:867 LOGGER_TPO/(2208:2208): Hola! Soy un logger!
+[INFO] 03:48:25:867 LOGGER_TPO/(2208:2208): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 03:48:25:867 LOGGER_TPO/(2208:2208): El valor es: valor
+[INFO] 03:48:25:867 LOGGER_TPO/(2208:2208): El puerto es: 4444 
+[INFO] 03:48:25:867 LOGGER_TPO/(2208:2208): La IP es: 127.0.0.1
+[INFO] 03:48:36:859 LOGGER_TPO/(2208:2208): prueba envio de mensaje3
+[INFO] 03:58:37:767 LOGGER_TPO/(2471:2471): Bienvenidos al archivo Logger del TPO
+
+[INFO] 03:58:37:768 LOGGER_TPO/(2471:2471): Hola! Soy un logger!
+[INFO] 03:58:37:782 LOGGER_TPO/(2471:2471): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 03:58:37:782 LOGGER_TPO/(2471:2471): El valor es: valor
+[INFO] 03:58:37:782 LOGGER_TPO/(2471:2471): El puerto es: 4444 
+[INFO] 03:58:37:783 LOGGER_TPO/(2471:2471): La IP es: 127.0.0.1
+[INFO] 03:58:51:864 LOGGER_TPO/(2471:2471): prueba envio msj + handshake
+[ERROR] 03:58:53:002 LOGGER_TPO/(2471:2471): El servidor NO entiendo el HANDSHAKE enviado
+[INFO] 03:59:56:801 LOGGER_TPO/(2531:2531): Bienvenidos al archivo Logger del TPO
+
+[INFO] 03:59:56:801 LOGGER_TPO/(2531:2531): Hola! Soy un logger!
+[INFO] 03:59:56:801 LOGGER_TPO/(2531:2531): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 03:59:56:801 LOGGER_TPO/(2531:2531): El valor es: valor
+[INFO] 03:59:56:801 LOGGER_TPO/(2531:2531): El puerto es: 4444 
+[INFO] 03:59:56:802 LOGGER_TPO/(2531:2531): La IP es: 127.0.0.1
+[INFO] 04:00:15:541 LOGGER_TPO/(2531:2531): prueba envio msj + handshake correcto
+[ERROR] 04:00:17:166 LOGGER_TPO/(2531:2531): El servidor NO entiendo el HANDSHAKE enviado
+[INFO] 04:00:45:391 LOGGER_TPO/(2575:2575): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:00:45:391 LOGGER_TPO/(2575:2575): Hola! Soy un logger!
+[INFO] 04:00:45:391 LOGGER_TPO/(2575:2575): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:00:45:391 LOGGER_TPO/(2575:2575): El valor es: valor
+[INFO] 04:00:45:391 LOGGER_TPO/(2575:2575): El puerto es: 4444 
+[INFO] 04:00:45:391 LOGGER_TPO/(2575:2575): La IP es: 127.0.0.1
+[INFO] 04:00:58:486 LOGGER_TPO/(2575:2575): prueba envio sms + handshake ok
+[INFO] 04:00:59:401 LOGGER_TPO/(2575:2575): El servidor entendio el HANDSHAKE enviado
+[INFO] 04:40:58:727 LOGGER_TPO/(3857:3857): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:40:58:730 LOGGER_TPO/(3857:3857): Hola! Soy un logger!
+[INFO] 04:40:58:730 LOGGER_TPO/(3857:3857): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:40:58:730 LOGGER_TPO/(3857:3857): El valor es: valor
+[INFO] 04:40:58:732 LOGGER_TPO/(3857:3857): El puerto es: 4444 
+[INFO] 04:40:58:732 LOGGER_TPO/(3857:3857): La IP es: 127.0.0.1
+[INFO] 04:41:13:879 LOGGER_TPO/(3857:3857): El servidor entendio el HANDSHAKE enviado
+[INFO] 04:44:02:491 LOGGER_TPO/(3926:3926): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:44:02:491 LOGGER_TPO/(3926:3926): Hola! Soy un logger!
+[INFO] 04:44:02:491 LOGGER_TPO/(3926:3926): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:44:02:491 LOGGER_TPO/(3926:3926): El valor es: valor
+[INFO] 04:44:02:491 LOGGER_TPO/(3926:3926): El puerto es: 4444 
+[INFO] 04:44:02:491 LOGGER_TPO/(3926:3926): La IP es: 127.0.0.1
+[ERROR] 04:44:12:580 LOGGER_TPO/(3926:3926): El servidor NO entiendo el HANDSHAKE enviado
+[INFO] 04:45:05:565 LOGGER_TPO/(3978:3978): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:45:05:565 LOGGER_TPO/(3978:3978): Hola! Soy un logger!
+[INFO] 04:45:05:565 LOGGER_TPO/(3978:3978): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:45:05:565 LOGGER_TPO/(3978:3978): El valor es: valor
+[INFO] 04:45:05:565 LOGGER_TPO/(3978:3978): El puerto es: 4444 
+[INFO] 04:45:05:565 LOGGER_TPO/(3978:3978): La IP es: 127.0.0.1
+[INFO] 04:47:26:553 LOGGER_TPO/(4039:4039): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:47:26:555 LOGGER_TPO/(4039:4039): Hola! Soy un logger!
+[INFO] 04:47:26:555 LOGGER_TPO/(4039:4039): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:47:26:555 LOGGER_TPO/(4039:4039): El valor es: valor
+[INFO] 04:47:26:555 LOGGER_TPO/(4039:4039): El puerto es: 4444 
+[INFO] 04:47:26:555 LOGGER_TPO/(4039:4039): La IP es: 127.0.0.1
+[ERROR] 04:48:06:758 LOGGER_TPO/(4039:4039): El servidor NO entiendo el HANDSHAKE enviado
+[INFO] 04:53:01:669 LOGGER_TPO/(4277:4277): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:53:01:670 LOGGER_TPO/(4277:4277): Hola! Soy un logger!
+[INFO] 04:53:01:670 LOGGER_TPO/(4277:4277): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:53:01:670 LOGGER_TPO/(4277:4277): El valor es: valor
+[INFO] 04:53:01:670 LOGGER_TPO/(4277:4277): El puerto es: 4444 
+[INFO] 04:53:01:670 LOGGER_TPO/(4277:4277): La IP es: 127.0.0.1
+[INFO] 04:54:29:832 LOGGER_TPO/(4330:4330): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:54:29:833 LOGGER_TPO/(4330:4330): Hola! Soy un logger!
+[INFO] 04:54:29:833 LOGGER_TPO/(4330:4330): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:54:29:833 LOGGER_TPO/(4330:4330): El valor es: valor
+[INFO] 04:54:29:833 LOGGER_TPO/(4330:4330): El puerto es: 4444 
+[INFO] 04:54:29:833 LOGGER_TPO/(4330:4330): La IP es: 127.0.0.1
+[INFO] 04:54:46:273 LOGGER_TPO/(4330:4330): El servidor entendio el HANDSHAKE enviado
+[INFO] 04:56:20:763 LOGGER_TPO/(4405:4405): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:56:20:764 LOGGER_TPO/(4405:4405): Hola! Soy un logger!
+[INFO] 04:56:20:764 LOGGER_TPO/(4405:4405): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:56:20:764 LOGGER_TPO/(4405:4405): El valor es: valor
+[INFO] 04:56:20:764 LOGGER_TPO/(4405:4405): El puerto es: 4444 
+[INFO] 04:56:20:764 LOGGER_TPO/(4405:4405): La IP es: 127.0.0.1
+[INFO] 04:56:31:152 LOGGER_TPO/(4405:4405): El servidor entendio el HANDSHAKE enviado
+[INFO] 04:57:36:200 LOGGER_TPO/(4455:4455): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:57:36:202 LOGGER_TPO/(4455:4455): Hola! Soy un logger!
+[INFO] 04:57:36:202 LOGGER_TPO/(4455:4455): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:57:36:202 LOGGER_TPO/(4455:4455): El valor es: valor
+[INFO] 04:57:36:203 LOGGER_TPO/(4455:4455): El puerto es: 4444 
+[INFO] 04:57:36:203 LOGGER_TPO/(4455:4455): La IP es: 127.0.0.1
+[INFO] 04:57:55:420 LOGGER_TPO/(4455:4455): El servidor entendio el HANDSHAKE enviado
+[INFO] 04:58:27:815 LOGGER_TPO/(4471:4471): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:58:27:815 LOGGER_TPO/(4471:4471): Hola! Soy un logger!
+[INFO] 04:58:27:816 LOGGER_TPO/(4471:4471): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:58:27:816 LOGGER_TPO/(4471:4471): El valor es: valor
+[INFO] 04:58:27:816 LOGGER_TPO/(4471:4471): El puerto es: 4444 
+[INFO] 04:58:27:816 LOGGER_TPO/(4471:4471): La IP es: 127.0.0.1
+[INFO] 04:58:48:567 LOGGER_TPO/(4471:4471): El servidor entendio el HANDSHAKE enviado
+[INFO] 04:59:49:883 LOGGER_TPO/(4539:4539): Bienvenidos al archivo Logger del TPO
+
+[INFO] 04:59:49:884 LOGGER_TPO/(4539:4539): Hola! Soy un logger!
+[INFO] 04:59:49:884 LOGGER_TPO/(4539:4539): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 04:59:49:884 LOGGER_TPO/(4539:4539): El valor es: valor
+[INFO] 04:59:49:884 LOGGER_TPO/(4539:4539): El puerto es: 4444 
+[INFO] 04:59:49:884 LOGGER_TPO/(4539:4539): La IP es: 127.0.0.1
+[INFO] 05:00:04:245 LOGGER_TPO/(4539:4539): El servidor entendio el HANDSHAKE enviado
+[INFO] 16:49:48:333 LOGGER_TPO/(5270:5270): Bienvenidos al archivo Logger del TPO
+
+[INFO] 16:49:48:335 LOGGER_TPO/(5270:5270): Hola! Soy un logger!
+[INFO] 16:49:48:335 LOGGER_TPO/(5270:5270): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 16:49:48:335 LOGGER_TPO/(5270:5270): El valor es: valor
+[INFO] 16:49:48:335 LOGGER_TPO/(5270:5270): El puerto es: 4444 
+[INFO] 16:49:48:336 LOGGER_TPO/(5270:5270): La IP es: 127.0.0.1
+[INFO] 16:49:56:566 LOGGER_TPO/(5270:5270): El servidor entendio el HANDSHAKE enviado
+[INFO] 16:51:30:831 LOGGER_TPO/(5334:5334): Bienvenidos al archivo Logger del TPO
+
+[INFO] 16:51:30:831 LOGGER_TPO/(5334:5334): Hola! Soy un logger!
+[INFO] 16:51:30:831 LOGGER_TPO/(5334:5334): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 16:51:30:834 LOGGER_TPO/(5334:5334): El valor es: valor
+[INFO] 16:51:30:834 LOGGER_TPO/(5334:5334): El puerto es: 4444 
+[INFO] 16:51:30:834 LOGGER_TPO/(5334:5334): La IP es: 127.0.0.1
+[INFO] 16:52:09:100 LOGGER_TPO/(5334:5334): El servidor entendio el HANDSHAKE enviado
+[INFO] 16:54:27:418 LOGGER_TPO/(5408:5408): Bienvenidos al archivo Logger del TPO
+
+[INFO] 16:54:27:422 LOGGER_TPO/(5408:5408): Hola! Soy un logger!
+[INFO] 16:54:27:422 LOGGER_TPO/(5408:5408): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 16:54:27:422 LOGGER_TPO/(5408:5408): El valor es: valor
+[INFO] 16:54:27:422 LOGGER_TPO/(5408:5408): El puerto es: 4444 
+[INFO] 16:54:27:422 LOGGER_TPO/(5408:5408): La IP es: 127.0.0.1
+[INFO] 16:54:54:230 LOGGER_TPO/(5408:5408): El servidor entendio el HANDSHAKE enviado
+[INFO] 17:06:23:965 LOGGER_TPO/(5601:5601): Bienvenidos al archivo Logger del TPO
+
+[INFO] 17:06:23:965 LOGGER_TPO/(5601:5601): Hola! Soy un logger!
+[INFO] 17:06:23:965 LOGGER_TPO/(5601:5601): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 17:06:23:965 LOGGER_TPO/(5601:5601): El valor es: valor
+[INFO] 17:06:23:965 LOGGER_TPO/(5601:5601): El puerto es: 4444 
+[INFO] 17:06:23:965 LOGGER_TPO/(5601:5601): La IP es: 127.0.0.1
+[INFO] 17:06:55:016 LOGGER_TPO/(5601:5601): El servidor entendio el HANDSHAKE enviado
+[INFO] 17:07:46:945 LOGGER_TPO/(5652:5652): Bienvenidos al archivo Logger del TPO
+
+[INFO] 17:07:46:945 LOGGER_TPO/(5652:5652): Hola! Soy un logger!
+[INFO] 17:07:46:946 LOGGER_TPO/(5652:5652): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 17:07:46:946 LOGGER_TPO/(5652:5652): El valor es: valor
+[INFO] 17:07:46:946 LOGGER_TPO/(5652:5652): El puerto es: 4444 
+[INFO] 17:07:46:946 LOGGER_TPO/(5652:5652): La IP es: 127.0.0.1
+[INFO] 17:09:07:627 LOGGER_TPO/(5652:5652): El servidor entendio el HANDSHAKE enviado
+[INFO] 17:12:38:681 LOGGER_TPO/(5721:5721): Bienvenidos al archivo Logger del TPO
+
+[INFO] 17:12:38:681 LOGGER_TPO/(5721:5721): Hola! Soy un logger!
+[INFO] 17:12:38:683 LOGGER_TPO/(5721:5721): Se inicio correctamente el archivo CONFIG del TP0
+[INFO] 17:12:38:685 LOGGER_TPO/(5721:5721): El valor es: valor
+[INFO] 17:12:38:685 LOGGER_TPO/(5721:5721): El puerto es: 4444 
+[INFO] 17:12:38:685 LOGGER_TPO/(5721:5721): La IP es: 127.0.0.1
